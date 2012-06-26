@@ -25,5 +25,13 @@ Ext.define('AM.store.Users', {
             root: 'users',
             successProperty: 'success'
         }
-    }
+    },
+    
+//    data: [
+//           { name: 'Ed',    email: 'Spencer' },
+//           { name: 'Tommy', email: 'Maintz' },
+//           { name: 'Aaron', email: 'Conran' },
+//           { name: 'Jamie', email: 'Avins' }
+//       ]
+
 });

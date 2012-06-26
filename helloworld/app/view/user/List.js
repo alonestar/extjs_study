@@ -13,5 +13,5 @@ Ext.define('AM.view.user.List' ,{
         ];
 
         this.callParent(arguments);
-    }
+    },
 });
